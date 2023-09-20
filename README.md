@@ -22,7 +22,13 @@ Para começar:
 
 ## Uso
 
-[Insira instruções sobre como iniciar a aplicação, quaisquer comandos específicos ou exemplos de uso.]
+### 1. **Acessando o sistema**
+
+Após a instalação e configuração, inicie a aplicação com o comando:
+
+- NPM: `npm run dev`
+
+Isto iniciará o servidor e a interface do Whey Ranking estará acessível no seu navegador padrão.
 
 ## Contribuição
 
