@@ -1,38 +1,42 @@
-# create-svelte
+# Whey Ranking
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Uma plataforma que mapeia e ranqueia os Wheys disponíveis no mercado através de um sistema de ranqueamento, listagem e filtros.
 
-## Creating a project
+## Descrição
 
-If you're seeing this, you've probably already done this step. Congrats!
+O Whey Ranking foi criado para ajudar os consumidores a escolher o melhor Whey de acordo com suas necessidades. Com um sistema robusto de ranqueamento, você pode filtrar, classificar e comparar diferentes produtos para encontrar o que melhor se adapta a você.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Instalação
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### Pré-requisitos
 
-## Developing
+- Node.js e npm
+- Tailwind CSS (usado como framework de CSS)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Para começar:
 
-```bash
-npm run dev
+1. Clone o repositório.
+2. Navegue até o diretório do projeto.
+3. Execute `npm install` para instalar todas as dependências.
+4. Siga as instruções específicas para configurar o Tailwind CSS.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Uso
 
-## Building
+[Insira instruções sobre como iniciar a aplicação, quaisquer comandos específicos ou exemplos de uso.]
 
-To create a production version of your app:
+## Contribuição
 
-```bash
-npm run build
-```
+Agradecemos qualquer contribuição para a melhoria deste projeto!
 
-You can preview the production build with `npm run preview`.
+1. Faça um fork do projeto.
+2. Crie uma nova branch para as suas modificações.
+3. Faça commit de suas mudanças com mensagens de commit semânticas.
+4. Abra um Pull Request para que possamos revisar suas mudanças.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Licença
+
+Este projeto está licenciado sob a Licença GNU General Public License v3.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## Créditos
+
+Desenvolvido com ❤️ por Bruno Senna e amigos!
